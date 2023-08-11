@@ -1,1 +1,8 @@
 到达世界最高层，理塘！
+呃呃
+指导一下:
+git branch -M main
+git push origin main
+
+git add xxx
+git commit -m "sb"
